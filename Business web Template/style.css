@@ -1,0 +1,158 @@
+body{
+    background: url(images/5.jpg)
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+   
+}
+
+header{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.head{
+    color: #fff;
+    font-size: 0.8rem;
+    word-spacing: 0.7rem;
+    float: left;
+}
+
+nav{
+    float: right;
+}
+
+nav ul{
+    border-left: 3px solid coral;
+}
+
+nav li{
+    display: inline;
+    padding-right: 1rem;
+}
+
+li a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.quote{
+    background-color: #ec2e0cee;
+    padding: 0.5rem 1rem;
+    border-radius: 1.3rem;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 5rem;
+}
+
+showcase h1{
+    font-size: 4rem;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+showcase h3{
+    font-size: 1.7rem;
+    color: #fff;
+    letter-spacing: 0.2rem;
+    margin-top: 0.5rem;
+}
+
+showcase p{
+    color: #fff;
+    font-family: cursive;
+    font-size: 1.2rem;
+}
+
+a button{
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 0.7rem 1rem;
+    border-radius: 1.3rem;
+    margin-top: 1.2rem;
+}
+
+aside{
+    width: 90%;
+    margin: auto;
+    color: #fff;
+    font-size: 1.2rem;
+    text-align: right;
+}
+
+.price{
+    color: gold;
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding-left: 0.7rem;
+}
+
+.btn{
+    background-color: #e44236;
+    border: none;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+
+/*PORTFOLIO*/
+.port{
+    color: orange;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.images{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    text-align: center;
+    overflow: hidden;
+    align-content: center;
+    color: #fff;
+}
+img{
+    width: 800px;
+    height: 500px;
+}
+
+#move-top a{
+    float: right;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: orangered;
+    padding: 0.5rem 1rem;
+    border-radius: 1.3rem;
+}
+
+.foot{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    color: #fff;
+ 
+}
+
+footer{
+    font-family: sans-serif cursive;
+    overflow: hidden;
+}
+
+.lefty{
+    float: left;
+    
+}
+
+.righty{
+    float: right;
+    
+}
